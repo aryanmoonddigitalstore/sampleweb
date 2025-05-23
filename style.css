@@ -60,3 +60,12 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.placeholder-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto; /* Center the image and add some margin */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
